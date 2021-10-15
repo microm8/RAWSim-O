@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RAWSimO.MultiAgendPathFinding")]
+[assembly: AssemblyTitle("RAWSimO.MultiAgentPathFinding")]
 [assembly: AssemblyDescription("Master Thesis Daniel Erdmann")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("DSOR Lab, University of Paderborn")]
-[assembly: AssemblyProduct("RAWSimO.MultiAgendPathFinding")]
+[assembly: AssemblyProduct("RAWSimO.MultiAgentPathFinding")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
